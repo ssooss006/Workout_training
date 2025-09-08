@@ -1,6 +1,6 @@
 // Service Worker для кэширования заглушки и превью
 const CACHE_NAME = 'workout-videos-cache-v1';
-const PLACEHOLDER_URL = '/20240813_200751.jpg';
+const PLACEHOLDER_URL = '/Workout_training/20240813_200751.jpg';
 // Добавьте сюда пути к другим превью, если появятся
 const PRECACHE_URLS = [
   PLACEHOLDER_URL,
